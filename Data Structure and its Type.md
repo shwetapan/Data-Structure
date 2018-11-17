@@ -1,6 +1,4 @@
-In computer science data structure is organization of data, management and storage format that enables 
-
-efficient access and modification. In simple words, data structure is defined as collection of data elements, relationship among them and functions and operations that can be applied to them.
+In computer science data structure is organization of data, management and storage format that enables efficient access and modification. In simple words, data structure is defined as collection of data elements, relationship among them and functions and operations that can be applied to them.
 
 There are two categories of data structure we will deal with:
 
