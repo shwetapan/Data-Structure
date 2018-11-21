@@ -2,7 +2,7 @@
 
 
 
-Linked List is another type of linear data structure in which you access the data element in linear order. Here, each element is represented by different object. Each object consist of two parts:  the data and its address. Every node stores the address of next node that, so that you can directly traverse the next node, that is what called as link. Hence, the whole arrangement of nodes is called as linked list. 
+Linked List is another type of linear data structure in which you access the data element in linear order. Here, each element is represented by different object. Each object consist of two parts:  the data and its address. Every node stores the address of next node, so that you can directly traverse the next node, that is what called as link. Hence, the whole arrangement of nodes is called as linked list. 
 
 ##### Important things to consider for LL:
 
