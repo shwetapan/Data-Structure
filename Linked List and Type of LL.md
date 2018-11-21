@@ -8,8 +8,6 @@ Linked List is another type of linear data structure in which you access the dat
 
 For LL, we need a head as a reference from whether the linked list starts.
 
-Last node of linked list returns NULL.
-
 
 
 
