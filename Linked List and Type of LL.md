@@ -16,7 +16,7 @@ For LL, we need a head as a reference from whether the linked list starts.
 
 
 
-A linked list uses dynamic allocation of memory. It is best suitable for object, whether it needs to deal with unknown number of objects. 
+A linked list uses dynamic allocation of memory. It is best suitable for object, where it needs to deal with unknown number of objects. 
 
 ##### Advantages of Linked List
 
