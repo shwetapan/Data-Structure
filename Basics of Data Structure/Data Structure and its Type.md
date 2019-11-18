@@ -5,7 +5,7 @@ Variable: It is the name of placeholder
 
 Data Type: It defines the behaviour and charecteristics of data which is going to be store in variable. It is of two types: user defined data type and system defined data types.
 
-In computer terms, only two things matters: CPU Cycle and memory. Solution of any problem should be generic. There are parameters by which we decide which solution is better, these are: time and space. the time is number of CPU Cycles and space is memory.
+In computer terms, only two things matters: CPU Cycle and memory. Solution of any problem should be generic. There are parameters by which we decide which solution is better, these are: time and space. the time is number of CPU Cycles a solution consumed and space is memory.
 
 
 
