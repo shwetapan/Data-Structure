@@ -1,10 +1,11 @@
 
-In computer science data structure is organization of data, management and storage format that enables efficient access and modification. In simple words, data structure is defined as collection of data elements, relationship among them and functions and operations that can be applied to them. the solution of any problem should be generic.
+In computer science data structure is organization of data, management and storage format that enables efficient access and modification. In simple words, data structure is defined as collection of data elements, relationship among them and functions and operations that can be applied to them. 
 
 Variable: It is the name of placeholder
 
 Data Type: It defines the behaviour and charecteristics of data which is going to be store in variable. It is of two types: user defined data type and system defined data types.
 
+In computer terms, only two things matters: CPU Cycle and memory. Solution of any problem should be generic. There are parameters by which we decide which solution is better, these are: time and space. the time is number of CPU Cycles and space is memory.
 
 
 
