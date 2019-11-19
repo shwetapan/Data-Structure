@@ -10,14 +10,22 @@ Utility Functions for Linked List:
 ### Traverse a Linked List:
 
 void traverse(struct node *head)
+
 {
-​    struct node *temp;
+​    struct node *temp
+
 ​    temp=head;
+
 ​    while(temp!=null)
+
 ​    {
+
 ​        pf(temp->data)
+
 ​        temp=temp->next;
+
 ​    }
+
 ​    
 }
 
