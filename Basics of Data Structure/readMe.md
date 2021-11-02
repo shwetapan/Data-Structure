@@ -3,4 +3,3 @@
 * variables
 * data types
 * Algorithm
-* 
